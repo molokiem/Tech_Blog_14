@@ -62,34 +62,3 @@ This is a CMS-style blog site where you can publish your articles, blog posts, a
 #### This application was created by a student of Rutgers Full-Stack Coding Bootcamp.
 
 You can find Michelle Molokie's work at their [Github](https://github.com/molokiem).
-
-## Features
-
-- View existing blog posts on the homepage
-- Sign up or sign in to access additional features
-- Create, update, and delete blog posts in your dashboard
-- Leave comments on blog posts
-- Log out from the site
-
-## Technologies Used
-
-- Node.js
-- Express.js
-- Sequelize ORM
-- MySQL (or any other database of your choice)
-
-## Installation
-
-1. Clone this repository.
-2. Install the dependencies using `npm install`.
-3. Set up your database configuration in the `config/connection.js` file.
-4. Run the application using `npm start`.
-5. Access the site on `http://localhost:3000` in your web browser.
-
-## Usage
-
-- Visit the homepage to view existing blog posts.
-- Sign up or sign in to access additional features.
-- Create, update, and delete blog posts in your dashboard.
-- Leave comments on blog posts by entering your comment.
-- Log out from the site when you're done.
