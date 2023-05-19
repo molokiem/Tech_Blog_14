@@ -45,7 +45,9 @@ This is a CMS-style blog site where you can publish your articles, blog posts, a
 
 ## Website
 
-- [Deployed Heroku Application]()
+This link fails but I tried.
+
+- [Deployed Heroku Application](https://git.heroku.com/techblog14mm.git)
 
 ## License
 
