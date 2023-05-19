@@ -1,0 +1,12 @@
+<h2>Welcome, {{username}}</h2>
+
+<div class="profile">
+  <h4>{{username}}</h4>
+  <p>Member Since: <span>{{membersince}}</span></p>
+
+  <a id="makepost" href="/newpost">Make a post</a>
+</div>
+
+{{#each data as |post| }}
+    {{> blogPost post}}
+{{/each}}
